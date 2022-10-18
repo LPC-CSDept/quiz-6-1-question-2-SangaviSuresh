@@ -42,3 +42,4 @@ int  findMin(int n1, int n2, int n3)
 			min=n3;
 	}
 	return min;
+}
